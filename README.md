@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm sayun lopchan</h1>
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h3 align="center">Fullstack developer from Nepal</h3>
 
-- 🔭 I’m currently working on [food delivery e-commerce](bhanshaexpress.com)
-
-- 🌱 I’m currently learning **MERN stack**
+- 🔭 I’m currently working on NAVMI,
+- 🌱 **MERN stack**
+- 🕹️ Giving some time to learn **Godot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
