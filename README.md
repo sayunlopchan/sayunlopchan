@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer from Nepal</h3>
 
 <p align="center">
-  <a href="https://github.com/readme/stats"><img alt="Sayun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160"/></a>
-  <a href="https://github.com/readme/stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="160"/></a>
+  <a href="https://github.com/readme/stats"><img alt="Sayun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sayunlopchan&show_icons=true&theme=radical" height="160"/></a>
+  <a href="https://github.com/readme/stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayunlopchan&layout=compact&theme=radical" height="160"/></a>
 </p>
 
 ## 🚀 About Me
