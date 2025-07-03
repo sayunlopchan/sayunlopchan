@@ -13,6 +13,7 @@
 - 🕹️ Exploring game development with **Godot**
 - 💡 Passionate about building scalable web applications
 - 📫 How to reach me: sayunlopchanwork@gmail.com
+- 🌐 Portfolio: [https://sayun-lopchan.vercel.app/](https://sayun-lopchan.vercel.app/)
 
 ## 🛠 Tech Stack
 
