@@ -41,11 +41,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayun-lopchan-74508030a/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayunlopchan)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sayunlopchan&theme=radical"/>
-</p>
 
 ## 🏆 GitHub Trophies
 
