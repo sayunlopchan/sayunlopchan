@@ -12,7 +12,7 @@
 - 🌱 Mastering the **MERN stack** (MongoDB, Express, React, Node.js)
 - 🕹️ Exploring game development with **Godot**
 - 💡 Passionate about building scalable web applications
-- 📫 How to reach me: [Your Email or Contact Info]
+- 📫 How to reach me: sayunlopchanwork@gmail.com
 
 ## 🛠 Tech Stack
 
