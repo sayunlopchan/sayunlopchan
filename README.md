@@ -43,7 +43,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sayunlopchan&theme=radical"/>
 </p>
 
 ## 🏆 GitHub Trophies
