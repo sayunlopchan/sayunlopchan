@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayun Lopchan</h1>
-<h3 align="center">Full Stack Developer from Nepal</h3>
+<h3 align="center">Full Stack Developer | MERN Stack</h3>
 
 <p align="center">
   <a href="https://github.com/readme/stats"><img alt="Sayun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sayunlopchan&show_icons=true&theme=radical" height="160"/></a>
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **KNOX BARBELL**
+- 🔭 Currently working on **Not Working**
 - 🌱 Mastering the **MERN stack** (MongoDB, Express, React, Node.js)
 - 🕹️ Exploring game development with **Godot**
 - 💡 Passionate about building scalable web applications
