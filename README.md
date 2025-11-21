@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayun Lopchan</h1>
 <h3 align="center">Full Stack Developer | MERN Stack</h3>
 
-<p align="center">
-  <a href="https://github.com/readme/stats"><img alt="Sayun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sayunlopchan&show_icons=true&theme=radical" height="160"/></a>
-  <a href="https://github.com/readme/stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayunlopchan&layout=compact&theme=radical" height="160"/></a>
-</p>
-
 ## 🚀 About Me
 
 - 🔭 Currently working on **Not Working**
